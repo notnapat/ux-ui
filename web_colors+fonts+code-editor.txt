@@ -1,0 +1,85 @@
+  เว็บ Extension for UX UI Desiner
+  https://www.designil.com/15-chrome-extensions-designers/
+  
+  เว็บ เช็คจำนวนการใช้งานแต่ละขนาดหน้าจอ ทั่วโลก
+  https://gs.statcounter.com/screen-resolution-stats/mobile/worldwide
+  
+  เว็บเช็ค feature css browsers support and version support
+  https://caniuse.com/css-grid
+  
+  cpacing-guide-for-desings == การใช้ spacing แต่ละ component
+  https://uxplanet.org/spacing-guide-for-designers-5bd140afe52a
+  
+  การใช้ grid ละเอียดอยู่ พอใช้อ้างอิงได้ แต่ดูของเว็บอื่น อ้างอิงไปด้วย เช่น bootstarp, material
+  https://uxdesign.cc/responsive-layout-grid-guide-for-designers-c3ba7d161bdf
+  
+  web material เวอร์ชั่นเก่า
+  https://m2.material.io/
+  
+  คีเวิส to pro figma เลือกค้นหาที่ละอย่าง หรือ ทีละเครื่องมือ
+  how to use plugins, libraries, prototypes and also how to save time as well in figma
+  
+  เว็บหา Logo Barand หรือ โลโก้ต่างๆ
+  https://brandeps.com/logo/Computer-and-Device?page=1
+  
+    เว็บลบพื้นหลังโลโก้
+  https://www.remove.bg/upload
+  
+  ลบพื้นหลังรูปภาพ
+  https://removal.ai/upload/
+  
+  เปลี่ยนสี icon ใช้ไฟล์ .svg
+  https://icons8.com/iconizer/color
+  
+  เว็บ hamburger-react
+  https://hamburger-react.netlify.app/
+
+  
+  ##### colors =>
+color.adobe.com
+mycolor.space
+colorhunt.co
+colors.muz.li
+
+webgradients.com
+
+dribbble.com
+
+  ### colors type == บทความ ประเภทสี เช่น สีหลัก สีรอง
+  https://sennalabs.com/th/blogs/Colors-in-Design-System
+
+  ##### fonts =>
+gogle fonts
+adobe fonts
+
+   ### บทความ จิตวิทยาเลือกฟอนต์ 
+   https://www.freelancebay.com/article/2coa9iu
+   
+   ### บทความ จิตวิทยาการออกแบบ UX-UI 
+   https://blog.skooldio.com/psychology-ux-ui/
+
+-ปรับขนาด font หรือ เปลี่ยน px-rem
+typescale.com
+archetypeapp.com
+
+  ### บทความ Responsive design 
+  https://grappik.com/setting-the-screen-size-of-a-website
+  
+_______________________________
+
+  ##### เว็บเขียน code , web code editor
+มีตัวอย่างโค้ด ต่างๆให้ดู
+https://codepen.io/
+
+- เลือกเครื่องมือเขียนได้ เช่น ใช้ react หรือ vue เขียน
+https://playcode.io/
+https://stackblitz.com/
+
+https://jsfiddle.net/
+https://jsbin.com/?html,output
+https://replit.com/
+https://codesandbox.io/
+
+  ##### creater == รวมสกิล UX UI Desing Systemต่างๆ
+  https://sennalabs.com/th/blogs?author=pae+praewpailin
+  https://www.designil.com/author/dxnat/page/2/
